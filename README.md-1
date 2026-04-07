@@ -1,12 +1,20 @@
-Caesar Cipher python project.
-This project is a beginner-friendly implementation of the Caesar Cipher algorithm using Python.
+🔐 Python Caesar Cipher
+A beginner Python project that encrypts and decrypts text using Caesar Cipher logic.
+## 🚀 Features
+- Encrypt messages
+- Decrypt messages
+- Simple user input system
+## 🧠 How it works
+Each letter is shifted by a fixed number. 
 
->>It allows users to:
-- Encrypt messages by shifting letters forward
-- Decrypt messages by shifting letters backward
-- Input custom text and shift values
+# ▶️ How to Run
+1. Run the Python file
+2. Enter your message
+3. Choose encrypt/decrypt
+4. Enter shift value
 
->>This project helped me understand:
-- Loops and conditionals
-- String manipulation
-- Basic encryption logic
+Example:
+Input: hello  
+Shift: 3  
+Output: khoor 
+
